@@ -1,4 +1,4 @@
-﻿# PYDA_capstone2
+﻿# PYDA_capstone2 15조
 **BRANCH CRAWLER**
 
 **<original_code.py --> width_price_crawling.py 업데이트 사항>**
